@@ -41,3 +41,5 @@ pip uninstall fairscale
 pip install fairscale
 ```
 参考：https://github.com/opendatalab/MinerU/issues/411
+
+###6. No such option: --pdf,如何解决？
